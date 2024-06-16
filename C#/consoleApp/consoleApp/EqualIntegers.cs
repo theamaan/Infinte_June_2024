@@ -13,6 +13,9 @@ namespace consoleApp
             CheckEqualIntegers();
             CheckPositiveNumber();
             PerformArithmeticOperations();
+            Subtract.add();
+            swapTwoNumber();
+            pattern();
         }
 
         static void CheckEqualIntegers()
@@ -76,5 +79,40 @@ namespace consoleApp
             }
             Console.ReadLine();
         }
+        static void swapTwoNumber()
+        {
+            Console.WriteLine("Please Enter the first number:");
+            int numberOne = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Please Enter the second number:");
+            int numberTwo = Convert.ToInt32(Console.ReadLine());
+
+            int temp = numberOne;
+            numberOne = numberTwo;
+            numberTwo = temp;
+
+            Console.WriteLine("The swapped first value is " + numberOne + " and the second value is " + numberTwo);
+            Console.ReadLine();
+        }
+        static void pattern()
+        {
+            Console.Write("Enter a digit: ");
+            int testData = Convert.ToInt32(Console.ReadLine());
+            for(int i = 0; i < 4; i++)
+            {
+                for(int j = 0; j < 4; j++)
+                {
+                    if (i % 2 == 0)
+                    {
+                        Console.Write(testData + " ");
+                    }
+                    else
+                    {
+                        Console.Write(testData);
+                    }
+                }
+                Console.WriteLine();
+            }
+            Console.ReadLine();
+        } 
     }
 }
