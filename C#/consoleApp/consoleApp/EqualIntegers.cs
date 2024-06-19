@@ -8,14 +8,28 @@ namespace consoleApp
 {
     class EqualIntegers
     {
-        static void Main(string[] args)
+        public int dist1;
+        public int dist2;
+        public static EqualIntegers totaldistance;
+        public static void Main(string[] args)
         {
-            CheckEqualIntegers();
-            CheckPositiveNumber();
-            PerformArithmeticOperations();
-            Subtract.add();
-            swapTwoNumber();
-            pattern();
+            //CheckEqualIntegers();
+            //CheckPositiveNumber();
+            //PerformArithmeticOperations();
+            //swapTwoNumber();
+            //pattern();
+
+            EqualIntegers d1 = new EqualIntegers();
+            EqualIntegers d2 = new EqualIntegers();
+            d1.dist1 = 50;
+            d2.dist2 = 60;
+            EqualIntegers.totaldistance = d1 + d2;
+           // Console.WriteLine("The Overall Distance is {0}", EqualIntegers.totaldistance.dist1);
+            d1++;
+            d2++;
+            Console.WriteLine("The incremented distance is {0}", d1.dist1);
+            Console.WriteLine("The incremented distance is {0}", d2.dist2);
+            Console.Read();
         }
 
         static void CheckEqualIntegers()
@@ -113,6 +127,22 @@ namespace consoleApp
                 Console.WriteLine();
             }
             Console.ReadLine();
-        } 
+        }
+        //Overloading the + Operator
+        public static EqualIntegers operator +(EqualIntegers dis1, EqualIntegers dis2)
+        {
+            EqualIntegers temp = new EqualIntegers();
+            temp.dist1 = dis1.dist1 + dis2.dist1;
+            temp.dist2 = dis1.dist2 + dis2.dist2;
+            return temp;
+        }
+        //Overloading the ++ Operator
+        public static EqualIntegers operator ++(EqualIntegers dis)
+        {
+            EqualIntegers temp = new EqualIntegers();
+            temp.dist1 = dis.dist1 + 1;
+            temp.dist2 = dis.dist2 + 1;
+            return temp;
+        }
     }
 }
