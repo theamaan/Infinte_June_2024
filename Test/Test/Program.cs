@@ -11,7 +11,6 @@ namespace Test
         static void Main(string[] args)
         {
             removeChar("Python", 0);
-            Console.WriteLine();
             Console.WriteLine(ExchangeCharacters("abcd"));
             Console.WriteLine("The Largest Number is "+ LargestNumber(1, 2, 40));
             multiplicaitonNumber(10);
@@ -21,7 +20,7 @@ namespace Test
         { 
             String sub1 = (str.Substring(0,digit));
             String sub2 = str.Substring(digit + 1);
-            Console.Write(sub1+sub2);
+            Console.WriteLine(sub1+sub2);
 
         }
         public static String ExchangeCharacters(String str)
