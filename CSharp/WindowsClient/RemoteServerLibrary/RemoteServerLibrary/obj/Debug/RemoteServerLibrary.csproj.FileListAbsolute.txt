@@ -1,0 +1,5 @@
+D:\June Training\CSharp\WindowsClient\RemoteServerLibrary\RemoteServerLibrary\bin\Debug\RemoteServerLibrary.dll
+D:\June Training\CSharp\WindowsClient\RemoteServerLibrary\RemoteServerLibrary\bin\Debug\RemoteServerLibrary.pdb
+D:\June Training\CSharp\WindowsClient\RemoteServerLibrary\RemoteServerLibrary\obj\Debug\RemoteServerLibrary.csproj.CoreCompileInputs.cache
+D:\June Training\CSharp\WindowsClient\RemoteServerLibrary\RemoteServerLibrary\obj\Debug\RemoteServerLibrary.dll
+D:\June Training\CSharp\WindowsClient\RemoteServerLibrary\RemoteServerLibrary\obj\Debug\RemoteServerLibrary.pdb

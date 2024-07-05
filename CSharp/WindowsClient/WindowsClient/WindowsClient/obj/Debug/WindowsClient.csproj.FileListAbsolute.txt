@@ -1,0 +1,13 @@
+D:\June Training\CSharp\WindowsClient\WindowsClient\WindowsClient\bin\Debug\WindowsClient.exe.config
+D:\June Training\CSharp\WindowsClient\WindowsClient\WindowsClient\bin\Debug\WindowsClient.exe
+D:\June Training\CSharp\WindowsClient\WindowsClient\WindowsClient\bin\Debug\WindowsClient.pdb
+D:\June Training\CSharp\WindowsClient\WindowsClient\WindowsClient\bin\Debug\RemoteServerLibrary.dll
+D:\June Training\CSharp\WindowsClient\WindowsClient\WindowsClient\bin\Debug\RemoteServerLibrary.pdb
+D:\June Training\CSharp\WindowsClient\WindowsClient\WindowsClient\obj\Debug\WindowsClient.csproj.AssemblyReference.cache
+D:\June Training\CSharp\WindowsClient\WindowsClient\WindowsClient\obj\Debug\WindowsClient.Form1.resources
+D:\June Training\CSharp\WindowsClient\WindowsClient\WindowsClient\obj\Debug\WindowsClient.Properties.Resources.resources
+D:\June Training\CSharp\WindowsClient\WindowsClient\WindowsClient\obj\Debug\WindowsClient.csproj.GenerateResource.cache
+D:\June Training\CSharp\WindowsClient\WindowsClient\WindowsClient\obj\Debug\WindowsClient.csproj.CoreCompileInputs.cache
+D:\June Training\CSharp\WindowsClient\WindowsClient\WindowsClient\obj\Debug\WindowsClient.csproj.CopyComplete
+D:\June Training\CSharp\WindowsClient\WindowsClient\WindowsClient\obj\Debug\WindowsClient.exe
+D:\June Training\CSharp\WindowsClient\WindowsClient\WindowsClient\obj\Debug\WindowsClient.pdb

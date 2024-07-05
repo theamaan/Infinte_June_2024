@@ -1,0 +1,2 @@
+D:\June Training\CSharp\RemoteHost\RemoteHost\RemoteHost\obj\Debug\RemoteHost.csproj.AssemblyReference.cache
+D:\June Training\CSharp\RemoteHost\RemoteHost\RemoteHost\obj\Debug\RemoteHost.csproj.CoreCompileInputs.cache

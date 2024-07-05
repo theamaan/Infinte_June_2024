@@ -1,0 +1,10 @@
+D:\June Training\CSharp\WindowsClient\RemoteServerLibrary\HostServer\bin\Debug\HostServer.exe.config
+D:\June Training\CSharp\WindowsClient\RemoteServerLibrary\HostServer\bin\Debug\HostServer.exe
+D:\June Training\CSharp\WindowsClient\RemoteServerLibrary\HostServer\bin\Debug\HostServer.pdb
+D:\June Training\CSharp\WindowsClient\RemoteServerLibrary\HostServer\bin\Debug\RemoteServerLibrary.dll
+D:\June Training\CSharp\WindowsClient\RemoteServerLibrary\HostServer\bin\Debug\RemoteServerLibrary.pdb
+D:\June Training\CSharp\WindowsClient\RemoteServerLibrary\HostServer\obj\Debug\HostServer.csproj.AssemblyReference.cache
+D:\June Training\CSharp\WindowsClient\RemoteServerLibrary\HostServer\obj\Debug\HostServer.csproj.CoreCompileInputs.cache
+D:\June Training\CSharp\WindowsClient\RemoteServerLibrary\HostServer\obj\Debug\HostServer.csproj.CopyComplete
+D:\June Training\CSharp\WindowsClient\RemoteServerLibrary\HostServer\obj\Debug\HostServer.exe
+D:\June Training\CSharp\WindowsClient\RemoteServerLibrary\HostServer\obj\Debug\HostServer.pdb
