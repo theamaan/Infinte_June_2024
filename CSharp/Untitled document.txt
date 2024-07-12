@@ -1,0 +1,63 @@
+﻿Q1:- List all employees whose name begins with 'A'. 
+  
+
+
+Q2:- Select all those employees who don't have a manager. 
+  
+
+
+Q3:- List employee name, number and salary for those employees who earn in the range 1200 to 1400.
+  
+
+
+Q4:- Give all the employees in the RESEARCH department a 10% pay rise. Verify that this has been done by listing all their details before and after the rise. 
+  
+
+
+
+Q5:- Find the number of CLERKS employed. Give it a descriptive heading.
+  
+
+
+
+Q6:- Find the average salary for each job type and the number of people employed in each job. 
+  
+
+Q7:- List the employees with the lowest and highest salary.
+  
+
+
+
+
+Q8:- List full details of departments that don't have any employees. 
+  
+
+
+Q9:- Get the names and salaries of all the analysts earning more than 1200 who are based in department 20. Sort the answer by ascending order of name. 
+  
+
+
+
+Q10:- For each department, list its name and number together with the total salary paid to employees in that department. 
+  
+
+
+
+Q11:- Find out salary of both MILLER and SMITH.
+  
+
+
+
+Q12:- Find out the names of the employees whose name begin with ‘A’ or ‘M’. 
+  
+
+Q13:- Compute yearly salary of SMITH. 
+  
+
+
+
+Q14:- List the name and salary for all employees whose salary is not in the range of 1500 and 2850.
+  
+
+
+Q15:- Find all managers who have more than 2 employees reporting to them
